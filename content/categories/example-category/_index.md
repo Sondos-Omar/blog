@@ -1,5 +1,5 @@
 ---
-title: Example Category
+title: Sondos Omar
 description: A description of this category
 image:
 
